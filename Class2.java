@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Aashaya Aryal
  */
 
 public class Class2 {
